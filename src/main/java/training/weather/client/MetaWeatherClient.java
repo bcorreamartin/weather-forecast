@@ -5,12 +5,10 @@ import com.google.api.client.http.HttpRequest;
 import com.google.api.client.http.HttpRequestFactory;
 import com.google.api.client.http.javanet.NetHttpTransport;
 import org.json.JSONArray;
-import org.json.JSONObject;
 import training.weather.util.DateUtils;
 import training.weather.util.MetaWeatherUtils;
 
 import java.io.IOException;
-import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.stream.Stream;
 import java.util.stream.StreamSupport;

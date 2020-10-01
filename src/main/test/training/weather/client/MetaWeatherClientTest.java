@@ -1,14 +1,10 @@
 package training.weather.client;
 
-import com.google.api.client.http.GenericUrl;
-import com.google.api.client.http.HttpRequest;
 import org.json.JSONArray;
 import org.junit.Assert;
 import org.junit.Test;
-import training.weather.util.MetaWeatherUtils;
 
 import java.io.IOException;
-import java.lang.reflect.Method;
 import java.util.Date;
 
 

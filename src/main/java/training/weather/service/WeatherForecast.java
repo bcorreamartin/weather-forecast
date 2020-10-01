@@ -1,13 +1,8 @@
 package training.weather.service;
 
 import java.io.IOException;
-import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.stream.Stream;
-import java.util.stream.StreamSupport;
 
-import org.json.JSONArray;
-import org.json.JSONObject;
 import training.weather.client.MetaWeatherClient;
 import training.weather.util.DateUtils;
 
