@@ -2,7 +2,7 @@
 
 Hola!
 Soy Borja Correa Martín, tengo 28 años y tengo 2 años y medio de experiencia como desarrollador de aplicaciones web.
-Esto es la prueba Weather Forecast de IDISO.
+
 
 # Preguntas y respuestas
 
